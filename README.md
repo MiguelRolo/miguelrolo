@@ -1,12 +1,12 @@
 <h3 align="center">
-  <samp>&gt; Hello world!, I am
+  <samp>&gt; Hello world! I am
     <b><a target="_blank" href="#">Miguel Rôlo</a></b>
   </samp>
 </h3>
 
 <p align="center"> 
   <samp>
-    「 I am a Full-stack Mobile and Web Developer from <b>Portugal</b> 」
+    「 I'm a Full-stack Mobile and Web Developer from <b>Portugal</b> 」
   </samp>
 </p>
 <br/>
@@ -65,7 +65,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{MiguelRolo}/count.svg" alt="MiguelRolo :: Visitor's Count" /></p>
 
 <h4 align="center">Top Open Source ⬆️</h4>
-<p align="center">Developing...</p>
+<p align="center"><samp>Developing...</samp></p>
 <p align="center">
   <a href="https://github.com/MiguelRolo?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
@@ -77,7 +77,11 @@
 <br/>
 
 <h2 align="center">Fun Fact 😄</h2>
-<p align="center">I once solved the world's oldest question with a single line of JavaScript</p>
+<p align="center">
+  <samp>
+  「 I once solved the <b>world's oldest question</b> with a single line of JavaScript 」
+  </samp>
+</p>
 
 ```javascript
 // Which came first: the chicken or the egg?
@@ -87,4 +91,4 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ```
 
 <br>
-⭐️ From [Miguel Rôlo](https://github.com/MiguelRolo)
+⭐️ From <a href='https://github.com/MiguelRolo'>Miguel Rôlo</a>
