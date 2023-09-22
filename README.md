@@ -18,6 +18,9 @@
  📧 &emsp; Reach me anytime: manrrolo@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything <a href='https://github.com/MiguelRolo/miguelrolo/issues'>here</a>
 </p>
+<br/>
+<br/>
+<br/>
 
 <h2 align="center">Tech & Tools Preference 🛠️</h2>
 
