@@ -9,6 +9,8 @@
     「 I am a Full-stack Mobile and Web Developer from <b>Portugal</b> 」
   </samp>
 </p>
+<br/>
+<br/>
 
 <h2 align="center">About Me</h2>
 <p>
@@ -21,12 +23,9 @@
 </p>
 <br/>
 <br/>
-<br/>
 
 <h2 align="center">Tech & Tools Preference 🛠️</h2>
-<div
- style='display: flex; justifyContent: center; gap: 10px;'
->
+<div align='center'>
 
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,14 +50,14 @@
 </div>
 
 <h4 align='center'>Other Languages I Know</h4>
-<div
-  style='display: flex; justifyContent: center; gap: 10px;'
->
+<div align='center'>
 
   ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge)
   ![C & C++](https://img.shields.io/badge/C%20&%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
 </div>
+<br/>
+<br/>
 
 <h2 align="center">Github stats 📊</h2>
 
@@ -73,6 +72,9 @@
 <br>
 
 ![Miguel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MiguelRolo&custom_title=Miguel%20Rôlo's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<br/>
+<br/>
 
 <h2 align="center">Fun Fact 😄</h2>
 <p align="center">I once solved the world's oldest question with a single line of JavaScript</p>
