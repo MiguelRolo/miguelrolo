@@ -63,17 +63,85 @@
 
 <h2 align="center">Github stats 📊</h2>
 
-<h4 align="center">Visitor's count 👀</h4>
+<p align='center'>
+  <a href='https://komarev.com/ghpvc/?username=MiguelRolo&color=7F3FBF'>
+    <img
+      src='https://komarev.com/ghpvc/?username=MiguelRolo&color=7F3FBF'
+      alt="MiguelRolo :: Visitor's Count"
+    >
+  </a>
+</p>
+<!--
 <p align="center"><img src="https://profile-counter.glitch.me/{MiguelRolo}/count.svg" alt="MiguelRolo :: Visitor's Count" /></p>
+-->
 
-<h4 align="center">Top Open Source ⬆️</h4>
-<p align="center"><samp>Developing...</samp></p>
+<h4 align="center">Top Open Source ⬆</h4>
+<p align='center'><samp>Developing...</samp></p>
+<!--
+<p align='center'>
+  <a href="https://github.com/alsiam/web-projects">
+    <img
+      src='https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF'
+      alt='Repo'
+    >
+  </a>
+  <a href="https://github.com/alsiam/web-projects">
+    <img
+      src='https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF'
+      alt='Repo'
+    >
+  </a>
+  <a href="https://github.com/alsiam/web-projects">
+    <img
+      src='https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF'
+      alt='Repo'
+    >
+  </a>
+  <a href="https://github.com/alsiam/web-projects">
+    <img
+      src='https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF'
+      alt='Repo'
+    >
+  </a>
+</p>
+-->
+
 <p align="center">
-  <a href="https://github.com/MiguelRolo?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/MiguelRolo?tab=repositories" target="_seft">
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-7F3FBF?style=for-the-badge&logo=koding&logoColor=7F3FBF"/>
+  </a>
 </p>
 <br>
 
-![Miguel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MiguelRolo&custom_title=Miguel%20Rôlo's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<hr>
+
+<h4 align="center">Activity 📈</h4>
+<p align="center">
+  <a href="https://github.com/MiguelRolo">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelRolo&theme=radical&border=7F3FBF&background=0D1117" alt="Miguel's GitHub streak"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/MiguelRolo">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelRolo&theme=radical" alt="Miguel's GitHub Contribution"/>
+  </a>
+</p>
+
+<p align='center'> 
+    <a href="https://github.com/MiguelRolo">
+      <img alt="Miguel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MiguelRolo&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    </a>
+    <a href="https://github.com/MiguelRolo">
+      <img alt="Miguel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    </a>
+  <br/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MiguelRolo" target="_selft">
+    <img alt="Miguel's Graph" title="Miguel's Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelRolo&custom_title=Miguel%20Rôlo's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"/>
+  </a>
+</p>
 
 <br/>
 <br/>
