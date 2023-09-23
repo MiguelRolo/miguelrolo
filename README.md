@@ -15,6 +15,8 @@
 <h2 align="center">About Me</h2>
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  <br/>
+  <br/>
  🎓 &emsp; Study at Computer Science at Polytechnic Institute of Setúbal<br/><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
