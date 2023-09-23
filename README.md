@@ -108,7 +108,7 @@
 
 <p align="center">
   <a href="https://github.com/MiguelRolo?tab=repositories" target="_seft">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-7F3FBF?style=for-the-badge&logo=koding&logoColor=7F3FBF"/>
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-7F3FBF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 <br>
