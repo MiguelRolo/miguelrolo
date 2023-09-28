@@ -84,7 +84,7 @@
 <p align='center'>
   <a href="https://github.com/MiguelRolo/GamesJS">
     <img
-      src='https://github-readme-stats.vercel.app/api/pin/?username=MiguelRolo&repo=GameJS&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF'
+      src='https://github-readme-stats.vercel.app/api/pin/?username=MiguelRolo&repo=GamesJS&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF'
       alt='GameJS'
     >
   </a>
