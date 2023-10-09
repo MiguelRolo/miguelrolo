@@ -75,9 +75,6 @@
     >
   </a>
 </p>
-<!--
-<p align="center"><img src="https://profile-counter.glitch.me/{MiguelRolo}/count.svg" alt="MiguelRolo :: Visitor's Count" /></p>
--->
 
 <h4 align="center">Top Open Source ⬆</h4>
 <!--<p align='center'><samp>Developing...</samp></p>-->
@@ -88,35 +85,13 @@
       alt='GameJS'
     >
   </a>
-</p>
-<!--
-<p align='center'>
-  <a href="https://github.com/alsiam/web-projects">
+  <a href="https://github.com/MiguelRolo/PasswordGenerator">
     <img
-      src='https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF'
-      alt='Repo'
-    >
-  </a>
-  <a href="https://github.com/alsiam/web-projects">
-    <img
-      src='https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF'
-      alt='Repo'
-    >
-  </a>
-  <a href="https://github.com/alsiam/web-projects">
-    <img
-      src='https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF'
-      alt='Repo'
-    >
-  </a>
-  <a href="https://github.com/alsiam/web-projects">
-    <img
-      src='https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF'
-      alt='Repo'
+      src='https://github-readme-stats.vercel.app/api/pin/?username=MiguelRolo&repo=PasswordGenerator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF'
+      alt='PasswordGenerator'
     >
   </a>
 </p>
--->
 
 <p align="center">
   <a href="https://github.com/MiguelRolo?tab=repositories" target="_seft">
