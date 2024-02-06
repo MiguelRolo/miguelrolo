@@ -65,16 +65,7 @@
 <br/>
 <br/>
 
-<h2 align="center">Github stats 📊</h2>
-
-<p align='center'>
-  <a href='https://komarev.com/ghpvc/?username=MiguelRolo&color=7F3FBF'>
-    <img
-      src='https://komarev.com/ghpvc/?username=MiguelRolo&color=7F3FBF'
-      alt="MiguelRolo :: Visitor's Count"
-    >
-  </a>
-</p>
+<h2 align="center">Top Open Source ⬆</h2>
 
 <h4 align="center">Top Open Source ⬆</h4>
 <!--<p align='center'><samp>Developing...</samp></p>-->
