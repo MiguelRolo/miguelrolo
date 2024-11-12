@@ -1,3 +1,4 @@
+<img align="center" width="350" src="/assets/banner.png" alt="Banner">
 <h3 align="center">
   <samp>&gt; Hello world! I am
     <b><a target="_blank" href="#">Miguel Rôlo</a></b>
@@ -53,82 +54,10 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Github](https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-</div>
-
-<h4 align='center'>Other Languages I Know</h4>
-<div align='center'>
-
   ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge)
   ![C & C++](https://img.shields.io/badge/C%20&%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
 </div>
-<br/>
-<br/>
-
-<h2 align="center">Top Open Source ⬆</h2>
-
-<h4 align="center">Top Open Source ⬆</h4>
-<!--<p align='center'><samp>Developing...</samp></p>-->
-<p align='center'>
-  <a href="https://github.com/MiguelRolo/TSP">
-    <img
-      src='https://github-readme-stats.vercel.app/api/pin/?username=MiguelRolo&repo=TSP&border_color=4463EB&bg_color=0C0C0C&title_color=C9D1D9&text_color=8B949E&icon_color=4463EB'
-      alt='TSP'
-    >
-  </a>
-</p>
-<p align='center'>
-  <a href="https://github.com/MiguelRolo/GamesJS">
-    <img
-      src='https://github-readme-stats.vercel.app/api/pin/?username=MiguelRolo&repo=GamesJS&border_color=4463EB&bg_color=0C0C0C&title_color=C9D1D9&text_color=8B949E&icon_color=4463EB'
-      alt='GameJS'
-    >
-  </a>
-  <a href="https://github.com/MiguelRolo/PasswordGenerator">
-    <img
-      src='https://github-readme-stats.vercel.app/api/pin/?username=MiguelRolo&repo=PasswordGenerator&border_color=4463EB&bg_color=0C0C0C&title_color=C9D1D9&text_color=8B949E&icon_color=4463EB'
-      alt='PasswordGenerator'
-    >
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MiguelRolo?tab=repositories" target="_seft">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-4463EB?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<br>
-
-<hr>
-
-<h4 align="center">Activity 📈</h4>
-<p align="center">
-  <a href="https://github.com/MiguelRolo">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MiguelRolo&theme=dark&fire=4463EA&stroke=4463EA&ring=4463EA&currStreakNum=18A2FF&currStreakLabel=4463EA&border=4463EA" alt="Miguel's GitHub streak"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/MiguelRolo">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelRolo&theme=transparent" alt="Miguel's GitHub Contribution"/>
-  </a>
-</p>
-
-<p align='center'> 
-    <a href="https://github.com/MiguelRolo">
-      <img alt="Miguel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MiguelRolo&show_icons=true&count_private=true&theme=react&border_color=4463EB&bg_color=0C0C0C&title_color=243484F&icon_color=4463EA" height="192px" width="49.5%"/>
-    </a>
-    <a href="https://github.com/MiguelRolo">
-      <img alt="Miguel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MiguelRolo&langs_count=8&layout=compact&theme=react&border_color=4463EB&bg_color=0C0C0C&title_color=243484F&icon_color=4463EA" height="192px" width="49.5%"/>
-    </a>
-  <br/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MiguelRolo" target="_selft">
-    <img alt="Miguel's Graph" title="Miguel's Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelRolo&custom_title=Miguel%20Rôlo's%20GitHub%20Activity%20Graph&bg_color=0C0C0C&color=4463EB&line=4463EB&point=4463EB&area_color=FFFFFF&title_color=FFFFFF&area=true"/>
-  </a>
-</p>
-
 <br/>
 <br/>
 
