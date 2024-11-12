@@ -18,11 +18,20 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   <br/>
   <br/>
- 🎓 &emsp; Study at Computer Science at Polytechnic Institute of Setúbal<br/><br/>
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: manrrolo@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything <a href='https://github.com/MiguelRolo/miguelrolo/issues'>here</a>
+🎓 **Computer Science Student**  
+Studying at the Polytechnic Institute of Setúbal, pursuing a degree in Computer Engineering. Aspiring to further specialize with a master’s degree in Software.
+
+👨‍💻 **Programmer & Knowledge Sharer**  
+Driven by a love for coding, I enjoy exploring new technologies and sharing insights with others.
+
+🚀 **Always Learning & Growing**  
+Continuous learning, always eager to dive into new features and development trends.
+
+📬 **Connect with Me Anytime**  
+Feel free to reach out: [manrrolo@gmail.com](mailto:manrrolo@gmail.com)
+
+💬 **Let’s Talk Tech**  
+Got questions? I’m here to help!
 </p>
 <br/>
 <br/>
