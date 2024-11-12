@@ -63,6 +63,7 @@ Got questions? I’m <a href='https://github.com/MiguelRolo/miguelrolo/issues'>h
   ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge)
   ![C & C++](https://img.shields.io/badge/C%20&%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
+  ![LISP](https://img.shields.io/badge/Lisp-000000?style=for-the-badge)
 </div>
 <br/>
 <br/>
