@@ -1,18 +1,8 @@
-<h3 align="center">
+<h2 align="center">
   <samp>&gt; Hello world! I am
     <b><a target="_blank" href="#">Miguel Rôlo</a></b>
   </samp>
-</h3>
-
-<p align="center"> 
-  <samp>
-    「 I'm a Full-stack Mobile and Web Developer from <b>Portugal</b> 」
-  </samp>
-</p>
-<br/>
-<br/>
-
-<h2 align="center">About Me</h2>
+</h2>
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
