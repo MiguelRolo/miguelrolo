@@ -54,7 +54,6 @@ Got questions? I’m <a href='https://github.com/MiguelRolo/miguelrolo/issues'>h
   ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white)
   ![Progressive Web Apps](https://img.shields.io/badge/Progressive%20Web%20Apps-5A0FC8?style=for-the-badge)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Github](https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge)
   ![C & C++](https://img.shields.io/badge/C%20&%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=white)
