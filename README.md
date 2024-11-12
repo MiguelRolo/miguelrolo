@@ -1,4 +1,3 @@
-<img align="center" src="/assets/banner.png" alt="Banner">
 <h3 align="center">
   <samp>&gt; Hello world! I am
     <b><a target="_blank" href="#">Miguel Rôlo</a></b>
