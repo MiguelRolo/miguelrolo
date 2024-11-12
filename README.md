@@ -8,13 +8,15 @@
   <samp>
     「 I'm a Full-stack Mobile and Web Developer from <b>Portugal</b> 」
   </samp>
-  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 </p>
 <br/>
 <br/>
 
 <h2 align="center">About Me</h2>
 <p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  <br/>
+  <br/>
 
 🎓 **Computer Science Student**  
 Studying at the Polytechnic Institute of Setúbal, pursuing a degree in Computer Engineering. Aspiring to further specialize with a master’s degree in Software.
