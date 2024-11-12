@@ -83,3 +83,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 <br>
 ⭐️ From <a href='https://github.com/MiguelRolo'>Miguel Rôlo</a>
+
+<script>
+  document.body.style.backgroundColor = '#4463eb'
+</script>
