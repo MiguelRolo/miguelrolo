@@ -18,6 +18,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   <br/>
   <br/>
+
 🎓 **Computer Science Student**  
 Studying at the Polytechnic Institute of Setúbal, pursuing a degree in Computer Engineering. Aspiring to further specialize with a master’s degree in Software.
 
@@ -27,11 +28,8 @@ Driven by a love for coding, I enjoy exploring new technologies and sharing insi
 🚀 **Always Learning & Growing**  
 Continuous learning, always eager to dive into new features and development trends.
 
-📬 **Connect with Me Anytime**  
-Feel free to reach out: [manrrolo@gmail.com](mailto:manrrolo@gmail.com)
-
 💬 **Let’s Talk Tech**  
-Got questions? I’m here to help!
+Got questions? I’m <a href='https://github.com/MiguelRolo/miguelrolo/issues'>here</a> to help!
 </p>
 <br/>
 <br/>
